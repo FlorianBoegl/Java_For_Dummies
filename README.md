@@ -1,3 +1,4 @@
 # info
 # info
-Java für Dummies von Arnold Willemer
+Repo für das erste Buch das ich durchgearbeitet habe
+( Java für Dummies von Arnold Willemer )
