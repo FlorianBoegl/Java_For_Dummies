@@ -1,4 +1,1 @@
-# info
-# info
-Repo für das erste Buch das ich durchgearbeitet habe
-( Java für Dummies von Arnold Willemer )
+# Repository for the book: Java für Dummies (author: Arnold Willemer )
