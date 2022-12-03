@@ -4,7 +4,7 @@ public class Spielfeld extends Flotte {
     final static int MAXX = 9;
     final static int MAXY = 7;
 
-    private char[][] spielfeld = new char[MAXX][MAXY];
+    private final char[][] spielfeld = new char[MAXX][MAXY];
 
     public Spielfeld() {
         for (int x = 0; x < MAXX; x++) {
